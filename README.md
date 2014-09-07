@@ -3,6 +3,8 @@ erdiko-magento
 
 Erdiko Magento integration
 
+**erdiko/magento package**
+
 Installation
 ------------
 
