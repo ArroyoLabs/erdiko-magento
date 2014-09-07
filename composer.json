@@ -1,0 +1,20 @@
+{
+	"name":"erdiko/magento",
+    "description": "Erdiko Magento package",
+    "keywords": ["erdiko", "erdiko-magento", "erdiko package"],
+    "homepage": "http://erdiko.org",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arroyo Labs",
+            "email": "info@arroyolabs.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "vendor",
+        "minimum-stability": "dev"
+    },
+     "autoload": {
+        "psr-0": { "erdiko\\magento": "src/" }
+    }
+}
